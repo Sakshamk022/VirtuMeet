@@ -33,7 +33,7 @@ You need to have the following installed on your machine:
 
 1.  Clone the repository:
     ```
-    git clone [repository-url]
+    git clone https://github.com/Sakshamk022/VirtuMeet.git
     ```
 2.  Navigate to the project directory:
     ```
